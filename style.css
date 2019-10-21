@@ -1,0 +1,89 @@
+.jumbotron {
+  background-color: #132843;
+  text-align:center;
+  color: #a4d6ed;
+  font-family: 'Barlow', sans-serif;
+}
+
+body {
+  background: #a4d6ed;
+}
+
+p {
+  font-family: 'Barlow', sans-serif;
+  color: #132843;
+}
+
+
+.nav {
+  background: #132843 ;
+  }
+
+.nav-link {
+    font-family: 'Barlow', sans-serif;
+    color: #a4d6ed;
+  }
+
+/* a:hover{
+  color: #001f3f;
+  text-decoration: none;
+}
+
+a:visited{
+  color: #001f3f;
+  text-decoration: none; */
+/* } */
+
+.img-fluid {
+  max-width: 50%;
+  height: auto;
+}
+
+.img-responsive {
+  pointer-events: none;
+  cursor: default;
+}
+
+h1 {
+  color: #001f3f;    
+  font-family: 'Barlow';
+  font-weight: 100;
+  font-style: normal;
+}
+
+h2 {
+  color: #001f3f;    
+  font-family: 'Barlow';
+  font-weight: 100;
+  font-style: normal;
+}
+
+h5 {
+  color: #001f3f;    
+  font-family: 'Barlow', sans-serif;
+}
+
+#links {
+  color: red;    
+  font-family: 'Barlow', sans-serif;
+}
+
+.card-title {
+  color: #001f3f;    
+  font-family: 'Barlow', sans-serif, bold;
+}
+
+.card-text {
+  color: #001f3f;        
+  font-family: 'Barlow', sans-serif, thin;
+}
+  
+.btn-primary {
+  background-color: #001f3f !important;
+  border: #001f3f !important;
+  color: white;
+}
+
+#logos {
+  background-color: white;
+}
