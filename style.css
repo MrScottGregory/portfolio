@@ -12,6 +12,12 @@
   padding: 10px;
 }
 
+.nav-link {
+  color: #a4d6ed !important;
+  font-family: 'Barlow', sans-serif;
+  font-size: x-large;
+}
+
 /* .navbar-toggler{
   background: #132843;
   border: #a4d6ed;
