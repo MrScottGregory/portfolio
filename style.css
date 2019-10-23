@@ -127,6 +127,10 @@ h5 {
   color: white;
 }
 
+.mobil-click-element {
+  pointer:cursor;
+}
+
 /* #logos {
   background-color: white;
 } */
